@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(10, 52, 52);
+}
+#login{
+    background-color: rgb(238, 220, 196);
+    height:200px;
+    width: 200px;
+    margin: 20% auto;
+    padding: 20px;
+    border-radius: 35px;
+    box-shadow:0 0 10px black ;
+}
+h1{
+    text-align: center;
+    margin:10px 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+input{
+    padding:auto;
+    border-radius: 8px;
+    width:auto;
+    padding: 0px 15px;
+}
+label{
+    margin: 0px 65px;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    background-color: rgb(3, 9, 7), 85;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    
+}
